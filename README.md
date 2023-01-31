@@ -2,7 +2,16 @@
 
 Over three sessions at the CYF Summit 2021, we talked about managing change at CYF. We talked about times we wanted to make changes and didn’t, and why that happened. We talked about change we disagreed with, or didn’t see the point of, and how we challenged that (or didn’t). It was a big discussion, and lots of great insights and experiences were shared, which we can talk about in more detail elsewhere, but in the last session, we worked on one clear plan to address some of the challenges and problems we had shared over the day.
 
-## So [here is our Change Board](https://github.com/orgs/CodeYourFuture/projects/67): a place to collectively manage change at CYF. It's the project attached to this repo. Make proposals by opening an issue on this repo. Invite others to discuss your ticket and commit to action. Add a timeline and a roadmap will be automatically created.
+## So [here is our Change Board](https://github.com/orgs/CodeYourFuture/projects/67): a place to collectively manage change at CYF. It's the project attached to this repo. 
+
+### Propose change
+1. Make proposals by opening an issue on this repo 
+1. Invite others to discuss your ticket and commit to action with a delivery date 
+### Make change
+1. Get +four people to test that the criteria are met and the change is equipped
+1. Get on and do it
+
+## More details
 
 Our change board is a place that can:
 
@@ -10,7 +19,6 @@ Our change board is a place that can:
 - [ ] Propose changes
 - [ ] Articulate the reasons for a change and structure productive debate
 - [ ] Liberate CYFers to actually take action
-
 
 The key piece we identified was that CYFers had a lot of ideas about what should be changed, but not as many about _who_ can make those changes. As a volunteer org, the way things get done is that volunteers do them. There’s no other way to do things. We all know this really, but as CYF gets larger, it’s harder to really _feel_. 
 
@@ -29,7 +37,7 @@ So we planned a Great Plan of Planning Plans! Here are the best bits:
 
 Proposals without commitment of resources are kicked to an ideas board, but don’t make it onto the change board. Ideas are nice, but they aren’t actions.
 
-Proposals aren’t about asking permission, they’re about _gathering resources_. It should be hard to stop people doing things if they have an idea, a good reason, success criteria, and are committing time to a project.
+Proposals aren’t about asking permission, they’re about _gathering resources_. It should be hard to stop people doing things if they have an idea, a good reason, success criteria, and are committing time to a project. Vetoes should be reserved for things that go against our goals, or create a risk to the org, and should always be explained.
 
 We talked a lot about how making change is deeply connected to trust and fear. When we trust each other and know each other, we feel freer to try new things. But it’s hard to build trust at scale. We came up with a few ways to support trust:
 
@@ -50,4 +58,6 @@ So therefore, [the Change Board](https://github.com/orgs/CodeYourFuture/projects
 - [ ] The timeline of the project is shown
 
 It's the project attached to this repo. Make proposals by opening an issue on this repo. Invite others to discuss your ticket and commit to action. Add a timeline and a roadmap will be automatically created. Good luck and have fun.
+
+![alt text](./Image%20from%20iOS.jpg "Our plan in sticky notes")
 
