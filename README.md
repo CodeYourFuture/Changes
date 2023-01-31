@@ -1,10 +1,8 @@
-# Changes
-
 # The Change Board
 
 Over three sessions at the CYF Summit 2021, we talked about managing change at CYF. We talked about times we wanted to make changes and didn’t, and why that happened. We talked about change we disagreed with, or didn’t see the point of, and how we challenged that (or didn’t). It was a big discussion, and lots of great insights and experiences were shared, which we can talk about in more detail elsewhere, but in the last session, we worked on one clear plan to address some of the challenges and problems we had shared over the day.
 
-We’d like to build a Change Board: a place to collectively manage change at CYF. 
+## So here is our Change Board: a place to collectively manage change at CYF.
 
 A place that can:
 
@@ -21,16 +19,17 @@ So we planned a Great Plan of Planning Plans! Here are the best bits:
 ## Question: How can I make change at CYF?
 ## Answer: These conditions must be met:
 
-### A CYFer says:
-I want to do **this**
-Here’s **why** I want to do it
-Here’s how it serves our **goals**
-This is how much **time** I can put towards this change
-This is the **help** I need from others to get this done (if any)
+### _A CYFer says_
+
+- I want to do **this**
+- Here’s **why** I want to do it
+- Here’s how it serves our **goals**
+- This is how much **time** I can put towards this change
+- This is the **help** I need from others to get this done (if any)
 
 Proposals without commitment of resources are kicked to an ideas board, but don’t make it onto the change board. Ideas are nice, but they aren’t actions.
 
-Proposals aren’t about asking permission, they’re about gathering resources. It should be hard to stop people doing things if they have an idea, a good reason, success criteria, and are committing time to a project.
+Proposals aren’t about asking permission, they’re about _gathering resources_. It should be hard to stop people doing things if they have an idea, a good reason, success criteria, and are committing time to a project.
 
 We talked a lot about how making change is deeply connected to trust and fear. When we trust each other and know each other, we feel freer to try new things. But it’s hard to build trust at scale. We came up with a few ways to support trust:
 
@@ -39,7 +38,7 @@ When people join a small group to work together on a clear project, trust and co
 
 ### Structure the process of making change so it is more likely to happen: 
 Instead of “someone should do this” we say “I will do this”.
-Spend less time on what we should do and more on why we should do it.
+Spend less time on _what others_ should do and more on _why we_ should do it.
 
 ### Show upcoming changes and projects. Have a central, open board showing what people are working on.
 So therefore, the Change Board must do these things
