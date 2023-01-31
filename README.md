@@ -2,9 +2,9 @@
 
 Over three sessions at the CYF Summit 2021, we talked about managing change at CYF. We talked about times we wanted to make changes and didn’t, and why that happened. We talked about change we disagreed with, or didn’t see the point of, and how we challenged that (or didn’t). It was a big discussion, and lots of great insights and experiences were shared, which we can talk about in more detail elsewhere, but in the last session, we worked on one clear plan to address some of the challenges and problems we had shared over the day.
 
-## So here is our Change Board: a place to collectively manage change at CYF.
+## So [here is our Change Board](https://github.com/orgs/CodeYourFuture/projects/67): a place to collectively manage change at CYF. It's the project attached to this repo. Make proposals by opening an issue on this repo. Invite others to discuss your ticket and commit to action. Add a timeline and a roadmap will be automatically created.
 
-A place that can:
+Our change board is a place that can:
 
 - [ ] Show upcoming changes and projects
 - [ ] Propose changes
@@ -41,11 +41,13 @@ Instead of “someone should do this” we say “I will do this”.
 Spend less time on _what others_ should do and more on _why we_ should do it.
 
 ### Show upcoming changes and projects. Have a central, open board showing what people are working on.
-So therefore, the Change Board must do these things
+So therefore, [the Change Board](https://github.com/orgs/CodeYourFuture/projects/67) must do these things
 
 - [ ] Things that are being worked on are shown on the board
 - [ ] The people that are working on them are named
 - [ ] The reason they are doing it is explained
 - [ ] There is a success criteria anyone can use to test the project
 - [ ] The timeline of the project is shown
+
+It's the project attached to this repo. Make proposals by opening an issue on this repo. Invite others to discuss your ticket and commit to action. Add a timeline and a roadmap will be automatically created. Good luck and have fun.
 
