@@ -66,7 +66,7 @@ class ProposalCards extends HTMLElement {
       ul {
         display: flex;
         flex-flow: row wrap;
-        gap: var(--gap);
+        gap: calc(var(--gap) /2 );
       }
       li a, li a:any-link {
         display:block;
