@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<html lang="en-gb">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Code Your Future's Change Board</title>
+    <meta name="description" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+      :root {
+        --paper: hsla(232, 22%, 13%, 95%);
+        --ink: hsla(227, 100%, 98%, 98%);
+        --label: #999;
+        --gap: 1.5rem;
+        --font: 100%/1.5 system-ui, sans-serif;
+        --github: #0d1117;
+      }
+      body {
+        display: grid;
+        font: var(--font);
+        color: var(--ink);
+        background: var(--paper);
+        gap: var(--gap);
+        padding: var(--gap);
+      }
+      a {
+        color: var(--ink);
+        text-decoration: none;
+      }
+      a:hover,
+      a:focus {
+        text-decoration: wavy underline;
+      }
+      proposal-cards {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: var(--gap);
+      }
+    </style>
+  </head>
+  <body>
+    <!--[if lt IE 7]>
+      <p class="browsehappy">
+        You are using an <strong>outdated</strong> browser. Please
+        <a href="#">upgrade your browser</a> to improve your experience.
+      </p>
+    <![endif]-->
+    <h1>
+      <a href="https://github.com/CodeYourFuture/Changes"
+        >&lt;CYF&gt; Change Board</a
+      >
+    </h1>
+    <proposal-cards></proposal-cards>
+    <script async defer type="module" src="./proposal-cards.js"></script>
+  </body>
+</html>
